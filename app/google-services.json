@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "991352037428",
+    "firebase_url": "https://notificationfinal-7c8ba.firebaseio.com",
+    "project_id": "notificationfinal-7c8ba",
+    "storage_bucket": "notificationfinal-7c8ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991352037428:android:5861400db371c682db2a61",
+        "android_client_info": {
+          "package_name": "com.example.quoraandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991352037428-bhe222qf9jbfv8uhq75qmqlsvfgqlikn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCvH1N4qIea3OxM0sO8fd0qVA-sZ73Npo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991352037428-bhe222qf9jbfv8uhq75qmqlsvfgqlikn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
